@@ -1,0 +1,3 @@
+toga_core==0.3.0.dev9
+beautifulsoup4==4.6.3
+toga==0.2.15
